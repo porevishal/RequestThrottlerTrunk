@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/main/resources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Vishal/.m2/repository/org/springframework/spring-core/3.2.3.RELEASE/spring-core-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Vishal/.m2/repository/org/springframework/spring-aop/3.2.3.RELEASE/spring-aop-3.2.3.RELEASE.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
